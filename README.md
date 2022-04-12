@@ -31,3 +31,7 @@ This is a paragraph. It's made up of sentences. Spelling is hard.
 |---|---|---|
 |Mike|Jackie|Joslynn|
 |Vanderpool|Vanderpool|Smith|
+
+```
+ <a href="https://www.markdownguide.org/cheat-sheet/">Markdown Cheat Sheet</a>
+```
