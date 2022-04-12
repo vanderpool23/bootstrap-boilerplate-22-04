@@ -23,6 +23,8 @@ This is a paragraph. It's made up of sentences. Spelling is hard.
 
 ---
 
+![Image of a photographer smoking][./IMG/pexels-kaique-rocha-598917.jpeg]
+
 [Markdown Cheat Cheet](https://www.markdownguide.org/cheat-sheet/)
 
 <a href="https://www.markdownguide.org/cheat-sheet/">Markdown Cheat Sheet</a>
