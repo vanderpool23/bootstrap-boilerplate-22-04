@@ -1,42 +1,14 @@
 # bootstrap-boilerplate-22-04
 
-## This is a level 2 heading :)
+Udated as of April 2022.
 
-This is a paragraph. It's made up of sentences. Spelling is hard.
+This is a template repository for stating a new web page/site.
 
-### This is an ordered list
-
-1. Walk 5 miles.
-2. Turn right.
-3. Walk 10 miles.
-4. Turn left.
-5. Walk 1 mile.
-6. You made it!
-
-### This is an unordered list
-
-* Apples
-* Oranges
-* Bread
-
-> This is a blockquote.
-
----
-
-![Image of a photographer smoking](./IMG/pexels-kaique-rocha-598917.jpeg)
-
-[Markdown Cheat Cheet](https://www.markdownguide.org/cheat-sheet/)
-
-<a href="https://www.markdownguide.org/cheat-sheet/">Markdown Cheat Sheet</a>
-
-|Column 1|Column 2|Column 3|
-|---|---|---|
-|Mike|Jackie|Joslynn|
-|Vanderpool|Vanderpool|Smith|
+It includes the following files:
 
 ```
- <a href="https://www.markdownguide.org/cheat-sheet/">Markdown Cheat Sheet</a>
- 
+index.html
+CSS/style.css
 ```
 
-To see the version of Git that you are using, type `git --version`.
+The `index.html` file includes a link to the Bootstrap CDN.
