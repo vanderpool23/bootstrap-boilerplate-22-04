@@ -6,6 +6,8 @@ This is a template repository for stating a new web page/site. This is useful so
 
 Get started by creating a new respository and using this as the template.
 
+This project is maintained by Mike Vanderpool.
+
 It includes the following files:
 
 ```
