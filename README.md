@@ -37,4 +37,4 @@ This is a paragraph. It's made up of sentences. Spelling is hard.
  
 ```
 
-To see the version of Git that you are using, type git --version.
+To see the version of Git that you are using, type `git --version`.
